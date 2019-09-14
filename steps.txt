@@ -1,0 +1,16 @@
+1) import random library
+2) generate a random value between 1 to 100
+3) loop with attempts increment on each loop
+4) input from user
+5) check if input is number or letter
+6) if letter 
+	6.1) check if its 'q'
+	6.2) if q quit program
+	6.3) if other letter continue program with error message
+7) if number
+	7.1) check if number between 1 to 100
+	7.2) if not between 1 to 100 display error and continue program
+	7.3) if number between 1 to 100
+		7.3.1) check if user input equals system generated random
+		7.3.2) if equals display congratulation with attemps count
+		7.3.3) else continue with error
